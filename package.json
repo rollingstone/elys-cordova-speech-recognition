@@ -1,0 +1,37 @@
+{
+  "name": "elys-cordova-plugin-speechrecognition",
+  "version": "1.1.2",
+  "description": "Elys Plugin for Speech Recognition",
+  "cordova": {
+    "id": "elys-cordova-plugin-speechrecognition",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rollingstone/elys-cordova-plugin-speechrecognition.git"
+  },
+  "keywords": [
+    "elys",
+    "cordova",
+    "speech",
+    "recognition",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Extended by Marzuk Kamal, forked from Peter Bakondy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rollingstone/elys-cordova-plugin-speechrecognition/issues"
+  },
+  "homepage": "https://github.com/rollingstone/elys-cordova-plugin-speechrecognition#readme"
+}
