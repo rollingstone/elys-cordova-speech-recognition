@@ -217,9 +217,14 @@ The plugin works in [AVAudioSessionCategoryPlayAndRecord](https://developer.appl
 
 ## Author
 
+Marzuk Kamal
+
+improved from original author,
 ### Peter Bakondy
 
 - https://github.com/pbakondy
+
+
 
 
 ## LICENSE
